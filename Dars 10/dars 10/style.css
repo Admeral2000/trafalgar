@@ -1,0 +1,77 @@
+.sarlavha{
+    width: 20%;
+    height: 30px;
+    margin: 12%;
+}
+.element{
+    width: 20%;
+    height: 30px;
+    margin: 12%;
+}
+.add{
+    width: 20%;
+    height: 20px ;
+    margin: 0 15% ;
+}
+.sarlavha2{
+    width: 15%;
+    height: 40px;
+    margin: 0 auto;
+}
+.element2{
+    width: 50%;
+    height: 50px;
+    margin: 0 auto;
+}
+.sarlavha3{
+    width: 20%;
+    height: 30px;
+    margin: 5% 70%;
+}
+.element3{
+    width: 20%;
+    height: 30px;
+    margin: 0 70%;
+}
+.add2{
+    width: 20%;
+    height: 20px;
+    margin: 5% 75%;
+}
+
+.sarlavha4{
+    width: 15%;
+    height: 20px;
+    margin: 12%;
+}
+.element4{
+    width: 20%;
+    height: 20px;
+    margin: 12%;
+}
+.add3{
+    width: 10% ;
+    height:10px ;
+    margin: 0 20%;
+}
+
+
+.sarlavha5{
+    width: 50%;
+    height: 20px;
+    margin: 0 40%;
+}
+.p{
+    width: 400px;
+    height: 400px;
+    border: 5px solid white;
+    border-radius: 200px;
+    margin: 20% 6%;
+    display: inline-block;
+}
+.h{
+    width: 10%;
+    height: 20px;
+    margin: 0 40%;
+    display: inline-block;
+}
